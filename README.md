@@ -16,13 +16,13 @@ even
 
 
 **Explicación:**
-Se lee un número entero desde la entrada.
+•Se lee un número entero desde la entrada.
 
-Se evalúa numero % 2 == 0:
+•Se evalúa numero % 2 == 0:
 
-Si es verdadero, el número es par → imprime "even".
+•Si es verdadero, el número es par → imprime "even".
 
-Si es falso, el número es impar → imprime "odd".
+•Si es falso, el número es impar → imprime "odd".
 
 **Entrada:** Un número entero.
 
